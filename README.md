@@ -20,5 +20,5 @@ Task: - - - - - - - - - - -
 7) Use the calculate function and check the total reimbursed amount for Project_B. 
 8) Create a measure to check the count of declined requests.  
 9) Create a slicer visual for the Project and employee.
-10)Create a bar chart for employees and reimbursement amount.
-11)Create a pie chart for Project vs reimbursement amount.
+10) Create a bar chart for employees and reimbursement amount.
+11) Create a pie chart for Project vs reimbursement amount.
